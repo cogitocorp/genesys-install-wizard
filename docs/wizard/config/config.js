@@ -1,7 +1,7 @@
 export default {
     clientID: '19764e2d-5461-4ded-938b-4dab1ac9c09f',
 
-    wizardUriBase: 'https://donfpicard.github.io/wizard/',
+    wizardUriBase: ''https://cogitocorp.github.io/genesys-install-wizard/docs/wizard/,
     //wizardUriBase: 'http://localhost:8080/wizard/',
     //wizardUriBase: 'https://mypurecloud.github.io/purecloud-premium-app/wizard/',
 
